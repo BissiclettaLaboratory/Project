@@ -95,7 +95,7 @@ Podés seguirme y ver mis avances en:
       <hr style="border: none; border-left: 2px solid #ccc; height: 100px;" />
     </td>
     <td align="right">
-      <img src="https://github.com/BissiclettaLaboratory/Project/blob/Project-txt-languages/Project-Images/Binance.jpg?raw=true" alt="Binance" width="200"/>
+      <img src="https://github.com/BissiclettaLaboratory/Project/blob/Project-txt-languages/Project-Images/Binance.png?raw=true" alt="Binance" width="200"/>
     </td>
   </tr>
 </table>
