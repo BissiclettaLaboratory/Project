@@ -86,19 +86,7 @@ Podés seguirme y ver mis avances en:
 📷 Instagram: [@nachitobici](https://instagram.com/nachitobici)
 📽 Youtube:[canal de YouTube](https://www.youtube.com/@BissiclettasLaboratory)
 
-<table>
-  <tr>
-    <td align="left">
-      <img src="https://github.com/BissiclettaLaboratory/Project/blob/Project-txt-languages/Project-Images/TrustWallet.png?raw=true" alt="Trust Wallet" width="200"/>
-    </td>
-    <td align="center" width="50">
-      <hr style="border: none; border-left: 2px solid #ccc; height: 100px;" />
-    </td>
-    <td align="right">
-      <img src="https://github.com/BissiclettaLaboratory/Project/blob/Project-txt-languages/Project-Images/Binance.png?raw=true" alt="Binance" width="200"/>
-    </td>
-  </tr>
-</table>
+<table> <tr> <td align="center"> <span style="color:#3375bb; font-weight:bold;">Trust Wallet</span><br/> <img src="https://github.com/BissiclettaLaboratory/Project/blob/Project-txt-languages/Project-Images/TrustWallet.png?raw=true" alt="Trust Wallet" width="200" style="border-radius:10px;"/><br/> Si querés colaborar con el proyecto, podés hacerlo escaneando este código con Trust Wallet. </td> <td width="50"></td> <td align="center"> <span style="color:#f3ba2f; font-weight:bold;">Binance</span><br/> <img src="https://github.com/BissiclettaLaboratory/Project/blob/Project-txt-languages/Project-Images/Binance.png?raw=true" alt="Binance" width="200" style="border-radius:10px;"/><br/> También podés enviarme directamente desde tu cuenta de Binance. ¡Gracias por tu apoyo! </td> </tr> </table>
 
 ¡Que tengas un gran día🦾!  
 **– Bici**💚
