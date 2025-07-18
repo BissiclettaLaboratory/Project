@@ -89,7 +89,7 @@ Podés seguirme y ver mis avances en:
 <table>
   <tr>
     <td align="left">
-      <img src="https://github.com/BissiclettaLaboratory/Project/blob/Project-txt-languages/Project-Images/Trust%20Wallet.jpg?raw=true" alt="Trust Wallet" width="200"/>
+      <img src="https://github.com/BissiclettaLaboratory/Project/blob/Project-txt-languages/Project-Images/TrustWallet.jpg?raw=true" alt="Trust Wallet" width="200"/>
     </td>
     <td align="center" width="50">
       <hr style="border: none; border-left: 2px solid #ccc; height: 100px;" />
