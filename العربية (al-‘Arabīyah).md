@@ -86,5 +86,7 @@
 📷 إنستغرام: [@nachitobici](https://instagram.com/nachitobici)  
 📽 يوتيوب: [قناة يوتيوب](https://www.youtube.com/@BissiclettasLaboratory)
 
+<table dir="rtl"> <tr> <td align="center"> <span style="color:#3375bb; font-weight:bold;">Trust Wallet</span><br/> <img src="https://github.com/BissiclettaLaboratory/Project/blob/Project-txt-languages/Project-Images/TrustWallet.png?raw=true" width="200" style="border-radius:10px;"/><br/> إذا كنت ترغب في دعم المشروع، يمكنك القيام بذلك بسهولة باستخدام Trust Wallet. شكرًا لك! </td> <td width="50"></td> <td align="center"> <span style="color:#f3ba2f; font-weight:bold;">Binance</span><br/> <img src="https://github.com/BissiclettaLaboratory/Project/blob/Project-txt-languages/Project-Images/Binance.png?raw=true" width="200" style="border-radius:10px;"/><br/> يمكنك أيضًا المساهمة عبر Binance. أي دعم موضع ترحيب. </td> </tr> </table>
+
 أتمنى لك يوماً عظيماً🦾!  
 **– بي سي**💚
