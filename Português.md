@@ -86,5 +86,7 @@ Você pode me seguir e ver meus avanços em:
 📷 Instagram: [@nachitobici](https://instagram.com/nachitobici)  
 📽 Youtube: [canal no YouTube](https://www.youtube.com/@BissiclettasLaboratory)
 
+<table> <tr> <td align="center"> <span style="color:#3375bb; font-weight:bold;">Trust Wallet</span><br/> <img src="https://github.com/BissiclettaLaboratory/Project/blob/Project-txt-languages/Project-Images/TrustWallet.png?raw=true" width="200" style="border-radius:10px;"/><br/> Se quiser apoiar o projeto, pode fazê-lo facilmente com o Trust Wallet. Obrigado pelo apoio! </td> <td width="50"></td> <td align="center"> <span style="color:#f3ba2f; font-weight:bold;">Binance</span><br/> <img src="https://github.com/BissiclettaLaboratory/Project/blob/Project-txt-languages/Project-Images/Binance.png?raw=true" width="200" style="border-radius:10px;"/><br/> Também aceito contribuições via Binance. Toda ajuda é bem-vinda para continuar desenvolvendo. </td> </tr> </table>
+
 Tenha um ótimo dia🦾!  
 **– Bici**💚
