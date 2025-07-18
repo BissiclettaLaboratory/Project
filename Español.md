@@ -1,5 +1,3 @@
-# Project
-Project and ways to support me
 <h1 align="center">✨ ¡Hola a quien esté leyendo! ✨</h1>
 
 <p align="center"><i>Gracias por tomarte el tiempo de leer mi proyecto. De verdad, significa mucho para mí.</i></p>
