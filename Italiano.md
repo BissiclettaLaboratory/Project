@@ -84,7 +84,7 @@ Voglio condividere **ogni passo del processo** per incoraggiare altri inventori.
 Se sei arrivato fino a qui: grazie di cuore!  
 Puoi seguirmi e vedere i miei progressi su:  
 📷 Instagram: [@nachitobici](https://instagram.com/nachitobici)  
-📽 Youtube: [Canale YouTube](https://www.youtube.com/@BissiclettasLaboratory)
+📽 Youtube: [Canale YouTube](https://www.youtube.com/@BissiclettaLab)
 
 <table> <tr> <td align="center"> <span style="color:#3375bb; font-weight:bold;">Trust Wallet</span><br/> <img src="https://github.com/BissiclettaLaboratory/Project/blob/Project-txt-languages/Project-Images/TrustWallet.png?raw=true" width="200" style="border-radius:10px;"/><br/> Se vuoi sostenere il progetto, puoi farlo facilmente con Trust Wallet. Grazie per il tuo supporto! </td> <td width="50"></td> <td align="center"> <span style="color:#f3ba2f; font-weight:bold;">Binance</span><br/> <img src="https://github.com/BissiclettaLaboratory/Project/blob/Project-txt-languages/Project-Images/Binance.png?raw=true" width="200" style="border-radius:10px;"/><br/> Accetto anche contributi tramite Binance. Ogni aiuto è benvenuto per continuare lo sviluppo. </td> </tr> </table>
 
